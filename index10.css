@@ -21,7 +21,6 @@ span {
 
 
 .container #cont {
-    /* border: 2px solid black; */
     border-radius: 25px;
     background-color: rgb(80, 158, 80);
 
@@ -29,7 +28,7 @@ span {
 
 .form1 {
     background-color: rgb(77, 72, 65);
-    /* display: grid; */
+   
 }
 
 .navbar-expand-lg {
