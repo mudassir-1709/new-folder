@@ -1,0 +1,174 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: black;
+    padding-left: 10px;
+
+}
+
+span {
+    color: black;
+    padding: 20px;
+}
+
+#color1 {
+    border-top: 4px solid green;
+}
+
+
+.container #cont {
+    /* border: 2px solid black; */
+    border-radius: 25px;
+    background-color: rgb(80, 158, 80);
+
+}
+
+.form1 {
+    background-color: rgb(77, 72, 65);
+    /* display: grid; */
+}
+
+.navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    float: right;
+}
+
+.bg-light {
+    background-color: rgb(77, 72, 65) !important;
+}
+
+
+.form1 ul {
+    background-color: lightskyblue;
+     border: 2px solid black; 
+    color: aliceblue;
+    padding: 1px;
+    margin-left: 10rem;
+    border-radius: 20px;
+
+}
+
+.container .cont2 {
+    background-color: rgb(77, 72, 65);
+}
+
+.para1 {
+    padding-left: 20px;
+}
+
+.para2 {
+    padding-left: 20px;
+}
+
+.para3 {
+    padding-left: 20px;
+    margin-left: 1rem;
+    border-left: 6px solid green;
+}
+
+#border {
+    border-top: 4px solid green;
+    width: 8rem;
+    margin-top: -16px;
+}
+
+#right {
+    color: aliceblue;
+}
+
+.image2 {
+    border: 4px solid rgb(255, 245, 245);
+    width: 300px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.image2 img {
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.container .cont4 {
+    background-color: rgb(77, 72, 65);
+
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(247, 247, 247);
+}
+
+.cont4 li {
+    list-style: none;
+}
+
+.head1 {
+     border: 2px solid black; 
+    color: white;
+    background-color: black;
+}
+
+/* .pics2 {
+    /* border: 2px solid black; */
+
+/* } */ */
+
+.picture {
+    border: 2px solid black;
+    margin-top: -24px;
+}
+
+#not {
+    margin-left: 30px;
+    font-size: 16px;
+    /* border: 2px solid black; */
+    border-radius: 7px;
+    background: gray;
+    color: white;
+    margin-top: 10px;
+}
+
+.container #tags3 {
+    /* border: 2px solid black;   */
+    background-color: lightgray;
+
+}
+
+.container #tags2 {
+    /* border: 2px solid black;   */
+    background: gray;
+
+}
+
+.container #tags {
+    /* border: 2px solid black;   */
+    background-color: lightgray;
+
+
+}
+
+.image {
+    border: 4px solid rgb(246, 238, 238);
+    width: 120px;
+    height: 90px;
+    margin-top: 12px;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.container #copy {
+    color: aliceblue;
+
+    padding-left: 25px;
+}
